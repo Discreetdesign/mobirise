@@ -1,0 +1,1562 @@
+{
+  "settings": {
+    "name": "idcskartes",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#075000",
+        "#4c8347",
+        "#5c715b",
+        "#5e7d8e",
+        "#d9a699",
+        "#222222",
+        "#ff1297"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 66,
+    "versionPublish": "4.5.4",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "IDCS Kartes",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#f97352",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "PLASTIKĀTA KARTES",
+                "showText": true,
+                "text": "Dāvanu, atlaižu, lojalitātes kartes.<br>Kluba V.I.P. kartes. Atslēgkartes. Caurlaides ...",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#header3-17\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "IEKĀRTAS UN AKSESUĀRI",
+                "showText": true,
+                "text": "Printeri, karšu lasītāji u.c. Karšu vāciņi, turētāji, lentas un ķēdītes...",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#header3-19\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "un citas vajadzīgas lietas",
+                "showText": true,
+                "text": "Vizītkartes, bukleti, uzlīmes, dažadu priekšmetu apdruka u.c.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#header3-1b\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a> "
+              }
+            ]
+          },
+          "_anchor": "slider-5",
+          "articleLayout": false
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "IDCS KARTES",
+          "text": "<p><b>Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā un esam sevi pierādījušu kā stabilu biznesa partneri. Mūsu klienti saņem tikai kvalitatīvu darbu sev vēlamos termiņos.</b>&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Pateicoties produkcijas kvalitātei, nepārtrauktai tehnoloģiju uzlabošanai un individuālai pieejai katram klientam, mēs nepārtraukti paplašinām pastāvīgo klientu un partneru loku.&nbsp;&nbsp;&nbsp;&nbsp;<br>Pašlaik mūsu firma piedāvā pilnu pakapojumu klāstu, saistītu ar ražošanu un plastikāta karšu personalizāciju, no kartes maketa izstrādes līdz programmnodrošinājuma uzstādīšanai un iekārtām.<br>Plašā sortimentā tiek piedāvāti plastikāta karšu aksesuāri: turētāji, ķēdītes, klipši u.t.t.&nbsp;&nbsp;&nbsp;&nbsp;<br>Bez uzmanības nav atstātas arī dažādas papildierīces, tādas kā magnētisko joslu nolasītāji, svītrkodu skeneri u.c.<br>Mūsu klientiem tiek piedāvāti gatavi risinājumi atlaižu sistēmas veidošanai veikalos, salonos un sporta klubos. Mūsu programmētāji būs priecīgi izstrādāt jebkuras sarežģītības sistēmu tieši Jums.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">LASĪT TĀLĀK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\">KONTAKTI</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#f97352",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-17",
+          "title": "PLASTIKĀTA KARTES",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-7",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2640.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "PLASTIKĀTA KARTES",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/07_lapa-600x626.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "index.html#features1-7",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#efefef"
+            }
+          },
+          "title1": "KARŠU VEIDI",
+          "caption1": "Mēs piedāvājam visu veidu PVC (polivinilhlorīda) karšu spektru: Pilnkrāsu kartes (klientu, lojalitātes, atlaižu, bonusu, e-dāvanu kartes, apdrošināšanas polises,un citu veidu kartes) Mēs piedāvājam pilnu darba ciklu, sākot ar dizaina izstrādāšanu un beidzot ar kartes personalizāciju ...",
+          "button1": " <a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/05_lapa-600x626.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "index.html#features1-7",
+              "alt": "Karšu veidi",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#efefef"
+            }
+          },
+          "title2": "TEHNOLOĢIJAS",
+          "caption2": "Termosublimācijas un termopārneses druka Var būt krāsaina (RGB) vai monohroma. Krāsainā druka tiek veikta tikai RGB krāsu vidē. Pie tam mūsdienu tehnoloģijas ļauj sasniegt praktiski tipogrāfijas drukāšanas kvalitāti un augstu noturību pret ārējo iedarbību. Pilnkrāsas termosublimātiskā ...",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/06_lapa-600x626.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "index.html#features1-7",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#efefef"
+            }
+          },
+          "title3": "KARŠU PERSONALIZĀCIJA<br>UN AIZSARDZĪBA",
+          "caption3": "Vizuālā personalizācija Personalizācija ir tādas induviduālās informācijas, kā vārds, uzvārds, derīguma termiņš, kartes īpašnieka foto u.c., atspoguļošana kartē. Kodētā personalizācija Informāciju no kartes var nolasīt gan vizuāli, gan ar speciālu ierīču - karšu nolasītāju, skeneru ...",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/08_lapa-600x626.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "index.html#features1-7",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#efefef",
+              "active": true
+            }
+          },
+          "title4": "MAKETA SAGATAVOŠANA",
+          "caption4": "Gatavas kartes izmērs ir 86x54mm, kartes maketa izmērs - 90x60mm, stūru noapaļojuma radiuss - 3,2 mm, maketā tas nav jānorāda, magnētiskās joslas augstums 12.7 mm un tā atrodas 4 mm no kartes augšējās malas. Vēlamie ...",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LASĪT VAIRĀK</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1n",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#4c8347",
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-19",
+          "title": "IEKĀRTAS UN AKSESUĀRI",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H1": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-c",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "30",
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c8347",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/07_lapa-1400x1461.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#efefef",
+              "active": true
+            }
+          },
+          "headerAlign": "left",
+          "title": "IEKĀRTAS UN AKSESUĀRI",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Piedāvājam Jums iekārtas plastikāta karšu personalizācijai.</p><ul><li>Karšu printeri.</li><li>Magnētisko karšu lasītāji.</li><li>Printeru drukas lentas.</li></ul><p>Piedāvājam aksesuārus kartēm.</p><ul><li>Karšu vāciņi.</li><li>Turētāji.</li><li>Lentas un ķēdītes.</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>UZZINĀT VAIRĀK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1m",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#4c8347",
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#7c706b"
+            }
+          },
+          "_anchor": "header3-1a",
+          "title": "PROGRAMMAS UN SISTĒMAS",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-g",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c8347",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-903x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "",
+              "color": "",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "headerAlign": "left",
+          "title": "PROGRAMMAS UN SISTĒMAS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>ID CS Dāvanu karšu un lojalitātes sistēmas.</li></ul><p>ID CS Dāvanu karšu un lojalitātes sistēma ir pakalpojumu sniedzēju tiešsaistes vai bezsaistes plastikāta karšu un kuponu apstrādes sistēma ar atskaites ģenerēšanas iespēju. Sistēma ir elastīga un ir pielāgojama lielu un mazu uzņēmumu vajadzībām ar dažādu moduļu pieslēgšanas iespējām.</p><ul><li>Sporta klubu abonementu uzskaite.</li></ul><p>Programmu - aparātu komplekss \"Sporta klubs\" ir ērts un ekonomisks risinājums kluba abonementu izsniegšanai un klientu apmeklējumu reģistrācijai abonementa ietvaros.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>UZZINĀT VAIRĀK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1l",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#4c8347",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#7c706b"
+            }
+          },
+          "_anchor": "header3-1b",
+          "title": "DRUKAS DARBI",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-18",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRUKAS DARBI",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Vizītkartes</b></p><ul><li>vienpusējas,&nbsp;</li><li>divpusējas, </li><li>ar noapaļotiem stūriem.</li></ul><p><b>Bukleti</b></p><ul><li>dažādi izmēri, </li><li>melnbalti un krāsaini.</li></ul><p><b>Uzlīmes</b></p><ul><li>dažādu materiālu un izmēru, </li><li>arī magnētiskas.</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>UZZINĀT VAIRĀK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1k",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1613x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "60px",
+              "text-align": "center",
+              "color": "#f97352"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-16",
+          "title": "PIEDĀVAJAM",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Jau 20 gadus esam lielākais plastikāta karšu ražotājs Latvijā."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H3": {
+              "text-align": "right",
+              "font-size": "36px",
+              "color": "#222222"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1d",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dtc400-296x296.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "PRINERIS FARGO DTC400 (Lietots)",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Abpusēja druka līdz kartes malām CR-80 (termosublimācija fotokvalitātē); \n</p><p>Ietilpība: 100 kartes; Magnētiskās kodēšana: HiCo un LoCo; </p><p>USB nterfeiss; \n</p><p>Komplektā ar 27 drukas lentām.\n</p><p>\n</p><h3>800 €</h3><h3><br></h3><h3>\n</h3><p>\n</p><p>Interesēties pa tālruni: \n</p><p><b><a href=\"tel:67277477\" class=\"text-white\">67 277 477</a></b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>UZZINĀT VAIRĀK</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1e",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/plansete-600x486.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "ELEKTRONISKO DĀVANU UN KLIENTU KARŠU SISTĒMA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>dažādas atskaites\n</li><li>apgūšana ~ 5 minūtes \n</li><li>un vēl daudz priekšrocību \n</li></ul><p>Atbildes uz visiem jautājumiem par klientu lojalitātes veicināšanu varēsiet saņemt individuāli mūsu sistēmas prezentācijā\n</p><p>\n</p><p>Interesēties pa tālruni: \n</p><p><b><a href=\"tel:67277477\" class=\"text-white\">67 277 477</a></b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>UZZINĀT VAIRĀK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1j",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#cccccc",
+            "images": [
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": false
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg",
+                "active": false
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg",
+                "active": true
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "alt": "",
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ]
+          },
+          "_anchor": "gallery1-o",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-y",
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-d",
+          "_params": {
+            "googleMap": {
+              "address": "Artilērijas iela 22, id cs",
+              "placeId": "ChIJQeUbCDXO7kYRVmso9gLpuh0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RAKSTIET MUMS",
+          "form": {
+            "action": "dizains@idcs.lv",
+            "alerts": {
+              "success": "Jūsu vēstule veiskmīgi nosūtīta!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Jūsu vārds*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Jūsu e-pasts*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "tālrunis"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Rakstiet ziņu"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>NOSŪTĪT</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1i",
+          "_params": {
+            "showTitle": false,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>UZ AUGŠU</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p>Copyright © IDCS&nbsp;| &nbsp;<b>2018</b>   |<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.5"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/plasikatakartes-logo-239x78.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>ADRESE</b><br>Artilērias iela 22<br>Rīga LV-1001<br>",
+          "text2": "<b>KONTAKTI</b><br>e-mail: <a href=\"mailto:dizains@idcs.lv\" class=\"text-white\">info@idcs.lv</a><br>Tālrunis.: <a href=\"TEL:+371 6 7277477\" class=\"text-white\">+371 6 7277477</a><br>Fakss: +371 6 7277266<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"www.idcs.lv\" target=\"_blank\" class=\"text-danger\">www.idcs.lv</a></li><li><a href=\"www.e-kartes.lv\" target=\"_blank\" class=\"text-danger\">www.e-kartes.lv</a></li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#075000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#efefef"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#075000",
+            "hamburgerColor": "#efefef"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/plasikatakartes-logo-239x78.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "IDCS Kartes",
+              "link": "#top",
+              "title": "IDCS KARTES"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IDCS KARTES</a>",
+          "items": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+37167277477\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>(+371) 67277477</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-0\">Par mums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-17\">Plastikāta kartes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-19\">Iekārtas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-1a\">Programmas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-16\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>AKCIJA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-n\">Kontakti</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>PAR MUMS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">PLASTIKĀTA KARTES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AKCIJA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-e\" data-toolbar=\"-mbrBtnMove\">KONTAKTI</a></li> "
+        }
+      ]
+    },
+    "plastikāta_kartes.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Plastikāta kartes",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p>Copyright © IDCS&nbsp;| &nbsp;<b>2018</b>   |<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\"></a></p>",
+          "_anchor": "footer1-1o"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PLASTIKĀTA KARTES",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RAKSTIET MUMS",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>NOSŪTĪT</a>",
+          "form": {
+            "action": "dizains@idcs.lv",
+            "alerts": {
+              "success": "Jūsu vēstule veiskmīgi nosūtīta!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Jūsu vārds*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Jūsu e-pasts*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "tālrunis"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Rakstiet ziņu"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1r"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.5"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/plasikatakartes-logo-239x78.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>ADRESE</b><br>Artilērias iela 22<br>Rīga LV-1001<br>",
+          "text2": "<b>KONTAKTI</b><br>e-mail: <a href=\"mailto:dizains@idcs.lv\" class=\"text-white\">info@idcs.lv</a><br>Tālrunis.: <a href=\"TEL:+371 6 7277477\" class=\"text-white\">+371 6 7277477</a><br>Fakss: +371 6 7277266<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"www.idcs.lv\" target=\"_blank\" class=\"text-danger\">www.idcs.lv</a></li><li><a href=\"www.e-kartes.lv\" target=\"_blank\" class=\"text-danger\">www.e-kartes.lv</a></li></ul>",
+          "_anchor": "contacts1-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#075000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#efefef"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "19px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#075000",
+            "hamburgerColor": "#efefef"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/plasikatakartes-logo-239x78.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "IDCS Kartes",
+              "link": "#top",
+              "title": "IDCS KARTES"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IDCS KARTES</a>",
+          "items": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+37167277477\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>(+371) 67277477</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-0\">Par mums</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-17\">Plastikāta kartes</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-19\">Iekārtas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-1a\">Programmas</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-16\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>AKCIJA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-n\">Kontakti</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>PAR MUMS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-7\" data-toolbar=\"-mbrBtnMove\">PLASTIKĀTA KARTES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AKCIJA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-e\" data-toolbar=\"-mbrBtnMove\">KONTAKTI</a></li> ",
+          "_anchor": "menu-1q"
+        }
+      ]
+    }
+  }
+}
