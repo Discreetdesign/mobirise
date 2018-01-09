@@ -19,11 +19,13 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 66,
     "versionPublish": "4.5.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favico-94x94.png",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
